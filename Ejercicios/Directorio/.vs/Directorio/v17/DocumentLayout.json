@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\Directorio\\Directorio\\",
+  "WorkspaceRootPath": "C:\\GitHub\\UMH-2025P3-IIN-055\\Ejercicios\\Directorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AAF4F81-2E11-4172-86F3-FED7EF0A90F7}|Directorio\\Directorio.csproj|C:\\GitHub\\Directorio\\Directorio\\directorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AAF4F81-2E11-4172-86F3-FED7EF0A90F7}|Directorio\\Directorio.csproj|c:\\github\\umh-2025p3-iin-055\\ejercicios\\directorio\\directorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AAF4F81-2E11-4172-86F3-FED7EF0A90F7}|Directorio\\Directorio.csproj|solutionrelative:directorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AAF4F81-2E11-4172-86F3-FED7EF0A90F7}|Directorio\\Directorio.csproj|c:\\github\\directorio\\directorio\\directorio\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AAF4F81-2E11-4172-86F3-FED7EF0A90F7}|Directorio\\Directorio.csproj|C:\\GitHub\\UMH-2025P3-IIN-055\\Ejercicios\\Directorio\\directorio\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AAF4F81-2E11-4172-86F3-FED7EF0A90F7}|Directorio\\Directorio.csproj|solutionrelative:directorio\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\GitHub\\Directorio\\Directorio\\Directorio\\Clases\\Persona.cs",
+              "DocumentMoniker": "C:\\GitHub\\UMH-2025P3-IIN-055\\Ejercicios\\Directorio\\Directorio\\Clases\\Persona.cs",
               "RelativeDocumentMoniker": "Directorio\\Clases\\Persona.cs",
-              "ToolTip": "C:\\GitHub\\Directorio\\Directorio\\Directorio\\Clases\\Persona.cs",
+              "ToolTip": "C:\\GitHub\\UMH-2025P3-IIN-055\\Ejercicios\\Directorio\\Directorio\\Clases\\Persona.cs",
               "RelativeToolTip": "Directorio\\Clases\\Persona.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAiwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T02:37:46.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T02:37:46.809Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\Directorio\\Directorio\\Directorio\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\UMH-2025P3-IIN-055\\Ejercicios\\Directorio\\Directorio\\Program.cs",
               "RelativeDocumentMoniker": "Directorio\\Program.cs",
-              "ToolTip": "C:\\GitHub\\Directorio\\Directorio\\Directorio\\Program.cs",
+              "ToolTip": "C:\\GitHub\\UMH-2025P3-IIN-055\\Ejercicios\\Directorio\\Directorio\\Program.cs",
               "RelativeToolTip": "Directorio\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDQAAAAdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T03:08:10.616Z",
               "EditorCaption": ""
